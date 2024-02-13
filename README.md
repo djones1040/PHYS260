@@ -11,6 +11,7 @@ Dependencies
 
 Installing everything on the lab computers:
 
+```
   conda init bash
   [open new tab in terminal]
   conda create -n ml python=3.10
@@ -23,3 +24,4 @@ Installing everything on the lab computers:
   git clone https://github.com/djones1040/PHYS260.git
   cd PHYS260
   jupyter notebook
+```

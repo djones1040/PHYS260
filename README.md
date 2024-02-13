@@ -6,7 +6,7 @@ Decision tree and convolutional neural net exercises for PHYS260
 Dependencies
 - jupyter
 - astroML
-- sklearn
+- scikit-learn
 - tensorflow
 
 To install everything on the lab computers and start up jupyter, run these commands from the terminal app and follow prompts as needed:

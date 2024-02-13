@@ -13,7 +13,7 @@ To install everything on the lab computers and start up jupyter, run these comma
 
 ```
   conda init bash
-  [open new tab in terminal]
+  [open new tab in terminal and run future commands from that tab]
   conda create -n ml python=3.10
   conda activate ml
   pip install tensorflow --user

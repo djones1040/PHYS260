@@ -9,7 +9,7 @@ Dependencies
 - sklearn
 - tensorflow
 
-To installing everything on the lab computers, run these commands and follow prompts as needed:
+To install everything on the lab computers and start up jupyter, run these commands and follow prompts as needed:
 
 ```
   conda init bash

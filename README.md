@@ -9,7 +9,7 @@ Dependencies
 - sklearn
 - tensorflow
 
-Installing everything on the lab computers:
+To installing everything on the lab computers, run these commands and follow prompts as needed:
 
 ```
   conda init bash
@@ -24,4 +24,9 @@ Installing everything on the lab computers:
   git clone https://github.com/djones1040/PHYS260.git
   cd PHYS260
   jupyter notebook
+```
+
+If you restart or log out/back in, start up your previous environment by running this in the terminal:
+```
+conda activate ml
 ```

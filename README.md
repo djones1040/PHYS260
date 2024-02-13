@@ -8,6 +8,7 @@ Dependencies
 - astroML
 - scikit-learn
 - tensorflow
+- matplotlib
 
 To install everything on the lab computers and start up jupyter, run these commands from the terminal app and follow prompts as needed:
 

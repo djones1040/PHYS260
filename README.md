@@ -29,4 +29,6 @@ To install everything on the lab computers and start up jupyter, run these comma
 If you restart or log out/back in, start up your previous environment by running this in the terminal:
 ```
 conda activate ml
+cd PHYS260
+jupyter notebook
 ```
